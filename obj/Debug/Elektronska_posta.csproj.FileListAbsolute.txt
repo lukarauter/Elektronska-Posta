@@ -1,0 +1,10 @@
+C:\GitHubProjects\Elektronska-Posta\bin\Debug\Elektronska_posta.exe.config
+C:\GitHubProjects\Elektronska-Posta\bin\Debug\Elektronska_posta.exe
+C:\GitHubProjects\Elektronska-Posta\bin\Debug\Elektronska_posta.pdb
+C:\GitHubProjects\Elektronska-Posta\obj\Debug\Elektronska_posta.csproj.AssemblyReference.cache
+C:\GitHubProjects\Elektronska-Posta\obj\Debug\Elektronska_posta.Form1.resources
+C:\GitHubProjects\Elektronska-Posta\obj\Debug\Elektronska_posta.Properties.Resources.resources
+C:\GitHubProjects\Elektronska-Posta\obj\Debug\Elektronska_posta.csproj.GenerateResource.cache
+C:\GitHubProjects\Elektronska-Posta\obj\Debug\Elektronska_posta.csproj.CoreCompileInputs.cache
+C:\GitHubProjects\Elektronska-Posta\obj\Debug\Elektronska_posta.exe
+C:\GitHubProjects\Elektronska-Posta\obj\Debug\Elektronska_posta.pdb
