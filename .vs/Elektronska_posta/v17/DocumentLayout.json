@@ -9,6 +9,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{27CFECFA-8D9F-4E2D-A57E-A71313BDD4E6}|Elektronska_posta.csproj|c:\\githubprojects\\elektronska-posta\\elektronska po\u0161ta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27CFECFA-8D9F-4E2D-A57E-A71313BDD4E6}|Elektronska_posta.csproj|solutionrelative:elektronska po\u0161ta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CFECFA-8D9F-4E2D-A57E-A71313BDD4E6}|Elektronska_posta.csproj|c:\\githubprojects\\elektronska-posta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CFECFA-8D9F-4E2D-A57E-A71313BDD4E6}|Elektronska_posta.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CFECFA-8D9F-4E2D-A57E-A71313BDD4E6}|Elektronska_posta.csproj|c:\\githubprojects\\elektronska-posta\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{27CFECFA-8D9F-4E2D-A57E-A71313BDD4E6}|Elektronska_posta.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CFECFA-8D9F-4E2D-A57E-A71313BDD4E6}|Elektronska_posta.csproj|c:\\githubprojects\\elektronska-posta\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CFECFA-8D9F-4E2D-A57E-A71313BDD4E6}|Elektronska_posta.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CFECFA-8D9F-4E2D-A57E-A71313BDD4E6}|Elektronska_posta.csproj|c:\\githubprojects\\elektronska-posta\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CFECFA-8D9F-4E2D-A57E-A71313BDD4E6}|Elektronska_posta.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\GitHubProjects\\Elektronska-Posta\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\GitHubProjects\\Elektronska-Posta\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:46:07.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\GitHubProjects\\Elektronska-Posta\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\GitHubProjects\\Elektronska-Posta\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:21:18.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\GitHubProjects\\Elektronska-Posta\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\GitHubProjects\\Elektronska-Posta\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-03-26T17:17:49.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHubProjects\\Elektronska-Posta\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHubProjects\\Elektronska-Posta\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:04:30.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Elektronska Po\u0161ta.cs",
+              "DocumentMoniker": "C:\\GitHubProjects\\Elektronska-Posta\\Elektronska Po\u0161ta.cs",
+              "RelativeDocumentMoniker": "Elektronska Po\u0161ta.cs",
+              "ToolTip": "C:\\GitHubProjects\\Elektronska-Posta\\Elektronska Po\u0161ta.cs",
+              "RelativeToolTip": "Elektronska Po\u0161ta.cs",
+              "ViewState": "AQIAAFABAAAAAAAAAAAQwF8BAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:12:16.742Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -31,19 +111,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T15:12:14.881Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Elektronska Po\u0161ta.cs",
-              "DocumentMoniker": "C:\\GitHubProjects\\Elektronska-Posta\\Elektronska Po\u0161ta.cs",
-              "RelativeDocumentMoniker": "Elektronska Po\u0161ta.cs",
-              "ToolTip": "C:\\GitHubProjects\\Elektronska-Posta\\Elektronska Po\u0161ta.cs",
-              "RelativeToolTip": "Elektronska Po\u0161ta.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAADwv30AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T15:12:16.742Z",
-              "EditorCaption": ""
             }
           ]
         }
